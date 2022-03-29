@@ -1,0 +1,35 @@
+body{
+    background-color: #A9D7E9
+}
+form{
+    background-color:#F3F3F3;
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 100px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+#che{
+    text-align: right;
+    margin-right: 50%;
+}
+.ch{
+    position: relative;
+    left: 50%;
+    bottom: 20px;
+    margin-left: 20px;
+}
+.lo{
+    position: relative;
+    bottom: 20px;
+}
+.li{
+    position: relative;
+    bottom: 50px;
+}
+.lu{
+    position: relative;
+    bottom: 70px;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: #A9D7E9;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+form{
+    background-color: #F3F3F3;
+     }
+}
+h1{
+    text-align: center
+}
+#h1{
+    float: right
+}

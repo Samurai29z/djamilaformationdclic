@@ -1,0 +1,12 @@
+th{
+    background-color: yellow;
+    }
+table{
+    border-collapse:collapse;
+    border-color:blue;
+}
+td, th{
+    border: 1px solid;
+}
+
+

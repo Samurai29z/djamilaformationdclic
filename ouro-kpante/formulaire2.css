@@ -1,0 +1,27 @@
+body{
+    background-color: #A9D7E9;
+    padding: 80px;
+}
+form{
+    background-color:#F3F3F3;
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 25px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center
+}
+.che{
+    text-align: right;
+    padding: 10px;
+}
+.ri{
+    margin-left: 180px;
+    color:white;
+    background-color: #6ba2ce;
+    border-radius: 5px;
+    border: 10px;
+}
