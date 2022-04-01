@@ -1,0 +1,21 @@
+body{
+    width: 1000px;
+    margin: auto;
+}
+.cont{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    grid-template-areas: "one one two two"
+                         "one one tree tree "
+                         "four four tree tree"
+                         "five five  six six";
+}
+.one{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    background-color: brown;
+}
